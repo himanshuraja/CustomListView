@@ -10,22 +10,30 @@ import android.app.Activity;
 public class MainActivity extends Activity {
     ListView list;
     String[] web = {
-            "Google Plus",
-            "Twitter",
+            "Name1",
+            "name2",
             "Windows",
-            "Bing",
+            "phone",
             "Itunes",
             "Wordpress",
             "Drupal"
     } ;
-    Integer[] imageId = {
+    String[] imageId = {
+            /*R.drawable.ic_launcher,
             R.drawable.ic_launcher,
             R.drawable.ic_launcher,
             R.drawable.ic_launcher,
             R.drawable.ic_launcher,
             R.drawable.ic_launcher,
-            R.drawable.ic_launcher,
-            R.drawable.ic_launcher,
+            R.drawable.ic_launcher,*/
+        "phone1",
+            "phone2",
+            "phone3",
+            "phone4",
+            "phone5",
+            "phone6",
+            
+            
 
     };
 
